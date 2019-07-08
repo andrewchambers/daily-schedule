@@ -1,4 +1,10 @@
 # daily-schedule
-Ben Franklin-esque Schedule in LaTeX
 
-This file is attempt to replicate something akin to Ben Franklin's schedule.  Please feel free to fork and improve it!
+A daily schedule originally designed by Benjamin Franklin, 'forked' by
+[Liam Monahan](http://www.monahan.io/blog/2015/10/03/recreating-ben-franklin-s-schedule-in-latex/),
+then forked again by Andrew Chambers.
+
+This version was made to help me (Andrew Chambers) maintain good working discipline.
+It is modified to somewhat match my existing habits/lifestyle plus habits I want to follow but don't currently.
+
+Please feel free to fork and improve it!
