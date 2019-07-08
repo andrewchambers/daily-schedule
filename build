@@ -1,0 +1,6 @@
+#! /usr/bin/env nix-shell
+#! nix-shell --pure -i bash -p texlive.combined.scheme-full
+
+set -uxe
+
+pdflatex daily-schedule.tex 
